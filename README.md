@@ -14,4 +14,4 @@ The project consists of following files:
 ## Dependencies
 To run the files following libraries (and its dependencies) are necessary:
 - `pandas` - Manage dataframes to preprocess data
-- `` - Connect to Apache Cassandra Database
+- ` ` - Connect to Apache Cassandra Database
